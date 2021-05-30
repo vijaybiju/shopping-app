@@ -14,7 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-##apk url link:https://drive.google.com/drive/folders/17GTdvwX6rdFK-tBF0a0nD_oiiHhrLOEd?usp=sharing
 ##link to video walkthrough: https://drive.google.com/file/d/1010-T1bFAsPxI9nBZPLQIaa6qUsxB_ih/view?usp=sharing
 ##libraries used: google_fonts: ^1.1.0
 firebase dependencies:
